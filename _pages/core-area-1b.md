@@ -19,29 +19,19 @@ The programme required deep technical understanding to address practical impleme
 
 The measurable impact demonstrates genuine technical capacity building. Pre- and post-session evaluations reveal substantial knowledge transformation: participants' understanding of open versus closed AI improved from 2.6 to 3.9, whilst their ability to access open tools increased from 2.6 to 4.3 on a 5-point scale.
 
-<div style="display: flex; gap: 20px; margin: 20px 0; max-width: 900px;">
-  <div style="flex: 1;">
-    <img src="../images/evidence/open-ai-pre-evaluation.png" alt="Pre-workshop evaluation data for Local and Open-Source GenAI session" style="width: 100%;">
-    <p><em>Pre-workshop evaluation data showing baseline knowledge levels for open vs closed AI understanding (2.6/5) and ability to access open tools (2.6/5).</em></p>
-  </div>
-  <div style="flex: 1;">
-    <img src="../images/evidence/open-ai-post-evaluation.png" alt="Post-workshop evaluation data for Local and Open-Source GenAI session" style="width: 100%;">
-    <p><em>Post-workshop evaluation data demonstrating significant improvement in understanding open vs closed AI (3.9/5) and practical tool access skills (4.3/5).</em></p>
-  </div>
-</div>
+![Pre-workshop evaluation data for Local and Open-Source GenAI session](../images/evidence/open-ai-pre-evaluation.png)
+*Pre-workshop evaluation data showing baseline knowledge levels for open vs closed AI understanding (2.6/5) and ability to access open tools (2.6/5).*
+
+![Post-workshop evaluation data for Local and Open-Source GenAI session](../images/evidence/open-ai-post-evaluation.png)
+*Post-workshop evaluation data demonstrating significant improvement in understanding open vs closed AI (3.9/5) and practical tool access skills (4.3/5).*
 
 My "Teaching Statistics and Quantitative Methods with GenAI" session showcases technical integration of AI tools with discipline-specific software. I demonstrate live how free-tier chatbots (ChatGPT, Claude, Copilot, Gemini) handle statistical computations, from basic descriptive statistics to complex regression analyses. The workshop includes hands-on exercises where participants experience AI's capabilities in generating R and Python code, whilst understanding limitations around computational accuracy and the need for verification.
 
-<div style="display: flex; gap: 20px; margin: 20px 0; max-width: 900px;">
-  <div style="flex: 1;">
-    <img src="../images/evidence/ai-stats-pre-evaluation.png" alt="Pre-workshop evaluation data for Teaching Statistics and Quantitative Methods with GenAI session" style="width: 100%;">
-    <p><em>Pre-workshop evaluation showing baseline understanding of GenAI capabilities for statistics learning (2.5/5) and knowledge of integration strategies (1.6/5).</em></p>
-  </div>
-  <div style="flex: 1;">
-    <img src="../images/evidence/ai-stats-post-evaluation.png" alt="Post-workshop evaluation data for Teaching Statistics and Quantitative Methods with GenAI session" style="width: 100%;">
-    <p><em>Post-workshop evaluation demonstrating dramatic improvement in understanding GenAI capabilities (4.0/5) and integration strategies (4.0/5) for statistics teaching.</em></p>
-  </div>
-</div>
+![Pre-workshop evaluation data for Teaching Statistics and Quantitative Methods with GenAI session](../images/evidence/ai-stats-pre-evaluation.png)
+*Pre-workshop evaluation showing baseline understanding of GenAI capabilities for statistics learning (2.5/5) and knowledge of integration strategies (1.6/5).*
+
+![Post-workshop evaluation data for Teaching Statistics and Quantitative Methods with GenAI session](../images/evidence/ai-stats-post-evaluation.png)
+*Post-workshop evaluation demonstrating dramatic improvement in understanding GenAI capabilities (4.0/5) and integration strategies (4.0/5) for statistics teaching.*
 
 This technical depth enables colleagues to make informed decisions about integrating these tools into their quantitative methods teaching.
 
