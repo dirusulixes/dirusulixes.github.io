@@ -1,22 +1,60 @@
 ---
-title: "Core Area 4: Communication and Working with Others"
+title: "Core Area 4a: Communication and Working with Others"
 permalink: /core-area-4a/
 ---
 
-*This section demonstrates my ability to communicate effectively about educational technology and work collaboratively with diverse stakeholders.*
+## **Description**
 
-## Description
+My collaborative approach to TEL is exemplified through contributing to the strategic planning for learning spaces in the new Devonport building, a £200+ million university development opening in 2027 that will house Greenwich Business School's expanded facilities. This complex multi-stakeholder project demonstrates how effective communication across diverse groups—from architects to academics, estates teams to IT services—can shape institutional infrastructure to support pedagogical innovation.
 
-*Examples of collaboration, communication, community engagement, leadership*
+Since beginning my Faculty TEL Tutor role in 2023, I have been actively involved in Devonport planning discussions, contributing vision documents and proposals that were circulated among faculty senior management to establish GBS's technological and pedagogical requirements for the new building. This groundwork proved essential when, in December 2024, Greenwich Business School was invited to present our comprehensive vision at a major planning workshop. The meeting brought together AV and infrastructure teams, architects, estates, and project managers. Together with the Associate Dean Student Success, I delivered a presentation that successfully established the framework for all subsequent discussions about learning space design. The slides I created for this presentation became the reference point that shaped how all stakeholders understood GBS's pedagogical needs and technological requirements.
 
-## Reflection
+I structured the presentation around four interconnected themes: evolving pedagogic approaches, strategic mix of learning spaces, technology integration vision, and student experience for 2030. Rather than beginning with technical specifications, I demonstrated how teaching patterns at GBS are already moving beyond traditional didactic/guided splits toward more flexible delivery patterns. I presented evidence that future teaching models would follow structured patterns—for example, a 2-3 hour block might follow a 15/10/10/10 structure with directed introduction, individual learning, group activities, and feedback/evaluation. I discussed that learning spaces and TEL requirements need to come from the need to support and enhance the teaching model that is evolving rather than replicate the status quo.
 
-*Development of professional communication and collaborative skills*
+Different teams had initially experienced difficulties discussing TEL needs because of different terminologies and understanding of TEL terms. When presenting the strategic mix of learning spaces, I developed three learning spaces tiers. Standard learning spaces would have tech infrastructure ready for future upgrades with flexible furniture configurations. Enhanced learning spaces would support BYOD, collaborative pods, and advanced AV capabilities for both in-person and hybrid delivery. Specialised learning spaces would include a Data Visualisation Suite, Trading Floor Suite, and an Immersive VR/AR/XR Space supporting advanced simulations. This approach helped different teams understand the requirements.
 
-## Evidence
+![Devonport Learning Spaces Framework](/images/evidence/devonport-strategic-learning-spaces-framework.png)
+*Screenshot showing the Strategic Mix of Learning Spaces framework presentation slide with three distinct tiers - Standard Learning Spaces with basic tech infrastructure and flexible configurations, Enhanced Learning Spaces with BYOD support and collaborative pods, and Specialised Learning Spaces including Data Visualisation Suite, Trading Floor Suite, and Immersive VR/AR/XR Space for advanced simulations.*
 
-*Meeting minutes, presentations, collaborative project outcomes*
+For the technology integration vision, I specified core infrastructure requirements including personal device integration with BYOD support, wireless presentation capabilities, and A/V collaborative tools. I outlined learning technologies needed: hybrid learning systems, VR/AR/XR capabilities, data visualisation tools, real-time analytics, and student engagement monitoring. By presenting these as integrated systems rather than isolated technologies, I helped stakeholders understand the interconnected nature of modern learning environments. The student experience vision for 2030 proved particularly effective in aligning diverse stakeholder perspectives, as I presented a concrete model where students would typically spend two full days per week on campus, experiencing structured directed learning sessions, collaborative project work, self-directed study, and seamless physical/digital integration, with students also needing ability to access these spaces remotely. This tangible vision of student experience helped architects understand space utilisation patterns and IT teams grasp infrastructure demands.
+
+Throughout this process, I maintained communication channels with multiple stakeholder groups. The detailed proposal document I subsequently created ([Evidence: GBS Proposal for Learning Spaces 2030](/evidence/gbs-learning-spaces-proposal-2030/)) included visual examples from other institutions—referencing implementations at Imperial College Business School's IDEA Lab, University of Wales Trinity Saint David's immersive rooms, and Keele University's Data Visualisation Room. These benchmarking examples, integrated with our specific GBS context, provided architects and developers with concrete references whilst maintaining focus on our unique institutional needs.
+
+The collaborative nature of this work extended to my partnership with professional services. The Faculty Learning Technologies Manager and I established the GBS TEL Working Group specifically to bridge the gap between academic and professional staff perspectives. This was the first working group in the faculty to formally bring together academics and professional services staff, creating a new model for collaborative innovation that has proven effective for complex projects like the Devonport planning and [business simulation procurement (detailed in Core Area 1a)](/core-area-1a/). 
+
+The Faculty Learning Technologies Manager recognised the impact of this collaborative approach:
+
+> "Guido's role as GBS TEL tutor has been instrumental in integrating our technological vision and strategy into academic T&L. His understanding of IT and experience in academia have bridged the gap between professional staff and academics, fostering improved collaboration."
+
+The significance of this collaborative approach is further recognised by the Associate Dean Student Success:
+
+> "Guido has also led the first GBS TELWG, which he chairs, with responsibility for accelerating strategic work on TEL for the faculty. His impact in role is clear on technology enhanced curricula, enhanced learning analytics and on technology enabled class environments."
+
+My approach to disseminating TEL insights extends beyond institutional boundaries. The presentations I delivered at both the [Advance HE AI Symposium (discussed in Core Area 2a)](/core-area-2a/) and our internal Learning and Teaching Festival demonstrate adaptability in communicating to different audiences. For the academic audience at Advance HE, I emphasised theoretical frameworks and research methodology behind the AI Innovation Challenge. For the internal festival audience, I focused on practical implementation strategies colleagues could adopt immediately through the Moodle Masterpieces campaign showcase.
+
+The student laptop support scheme represents another dimension of collaborative working that addresses digital poverty as a barrier to learning. This initiative provides students with access to laptops for academic work when they face financial hardship. The Faculty Learning Technologies Team had laptops available for donation previously, but there was no communication strategy, no institutional buy-in, and limited uptake. Working with the Faculty Learning Technologies Manager, I established a sustainable support system with proper communications and stakeholder engagement that made the scheme effective. This required coordinating multiple stakeholders through divided responsibilities: the Faculty Learning Technologies Manager worked with IT services to establish device preparation protocols, whilst I collaborated with faculty academics and student mentors to promote awareness of the scheme, and created the dedicated Sway page (https://sway.cloud.microsoft/5HqlxzkWZSLkHDHN) and request form to streamline applications.
+
+![Student Laptop Support Application](/images/evidence/gbs-laptop-support-application-form.png)
+*Screenshot of the GBS Laptop Support Initiative Application Form 2024/25 showing the systematic approach to addressing digital poverty, with clear priority groups including low-income backgrounds, care leavers, students with disabilities, and first-generation university students, demonstrating the comprehensive framework for supporting student technology access.*
+
+I provided regular updates to the Faculty Student Success Committee on uptake numbers to maintain institutional awareness and support. The success of this initiative has gained recognition beyond our faculty—in June 2025, I met with the Faculty of Science and Engineering's Faculty Operating Officer as they sought to understand our model for potential replication across their programmes.
+
+## **Reflection**
+
+The Devonport presentation transformed my understanding of strategic communication in higher education. Initially, I approached the workshop focused on advocating for specific technologies. However, I quickly realised that successful infrastructure planning requires building shared vision across diverse stakeholders. By structuring my presentation around pedagogical evolution, spatial requirements, technological integration, and student experience—rather than jumping to technical specifications—I created a narrative that resonated with all attendees regardless of their professional background.
+
+The importance of visual communication became evident through the supporting documentation I created. In additional files circulated to stakeholders ([Evidence: GBS Proposal for Learning Spaces 2030](/evidence/gbs-learning-spaces-proposal-2030/)), I included visual examples from other institutions—referencing implementations at Imperial College Business School's IDEA Lab, University of Wales Trinity Saint David's immersive rooms, and Keele University's Data Visualisation Room—which helped stakeholders visualise actual usage rather than abstract possibilities.
+
+The success of the presentation in setting the framework for ongoing discussions validated my approach of leading with pedagogy rather than technology. Months later, stakeholders still reference this presentation when discussing design decisions. This lasting impact demonstrates that effective collaboration requires creating shared reference points and common vocabulary that persist beyond initial meetings.
+
+Establishing the GBS TEL Working Group with the Faculty Learning Technologies Manager taught me about institutional culture change. The historic separation between academic and professional services staff had created silos that limited innovation potential. By creating a formal structure for collaboration, we legitimised cross-functional working and demonstrated its value through concrete outcomes like the Devonport planning and business simulation procurement.
+
+The contrast between presenting at Advance HE, our internal festival, and the Devonport workshop highlighted the importance of audience awareness. Academic conferences expect theoretical grounding and methodological rigour, internal events prioritise practical application, whilst infrastructure planning meetings require concrete specifications and use cases. Developing fluency across these registers—and knowing when to deploy each—has become essential to my role as a boundary-spanner between pedagogy and technology.
+
+The laptop scheme collaboration reinforced that effective TEL initiatives require understanding diverse stakeholder constraints. IT services had specific provisioning requirements for device configuration and support, whilst liability and insurance considerations needed careful navigation. Establishing proper tracking systems for device loans required coordination across multiple departments. Success came from addressing these practical constraints systematically rather than focusing solely on the educational benefits.
+
+This collaborative work has fundamentally shaped my approach to TEL leadership. I have learned that sustainable innovation emerges from building coalitions across institutional boundaries. Technical expertise alone is insufficient; success requires cultural competence, strategic communication, and patience to navigate complex stakeholder landscapes. These insights inform all my current work, from ongoing Devonport planning to faculty-wide initiatives, ensuring that collaboration remains central to innovation.
 
 ---
 
-*Navigation: [← Core Area 3](/core-area-3/) | [Future Plans →](/future-plans/)*
+*Navigation: [← Core Area 3a](/core-area-3a/) | [Future Plans →](/future-plans/)*
