@@ -1,6 +1,6 @@
 ---
 title: "Core Area 4: Communication and Working with Others"
-permalink: /core-area-4/
+permalink: /core-area-4a/
 ---
 
 *This section demonstrates my ability to communicate effectively about educational technology and work collaboratively with diverse stakeholders.*

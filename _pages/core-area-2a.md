@@ -1,6 +1,6 @@
 ---
 title: "Core Area 2: Teaching, Learning and Assessment Processes"
-permalink: /core-area-2/
+permalink: /core-area-2a/
 ---
 
 *This section demonstrates my understanding of how educational technology supports and enhances teaching, learning, and assessment processes.*
