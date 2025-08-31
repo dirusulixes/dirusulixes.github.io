@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my Associate CMALT portfolio submission. This portfolio demonstrates my professional competence and development in Technology Enhanced Learning as Faculty TEL Lead at Greenwich Business School, University of Greenwich.
+This portfolio showcases my professional expertise and ongoing development in Technology Enhanced Learning as Faculty TEL Lead at Greenwich Business School, University of Greenwich. Through concrete examples from my practice, I demonstrate how educational technology can transform learning experiences whilst addressing the complex challenges facing modern higher education.
 
 ## Portfolio Structure
 
@@ -33,3 +33,5 @@ This portfolio addresses the five core areas required for Associate CMALT accred
 ---
 
 Each section includes **Description**, **Reflection**, and supporting **Evidence** as required by the CMALT framework.
+
+**AI Use Note:** During portfolio development, I used  GenAI models including Claude Sonnet 4, Llama 3.3, and DeepSeek-R1 for language support with grammar, syntax, and clarity of expression. As a non-native English speaker, this assistance helped ensure clear communication whilst all ideas, reflections, and professional examples remain entirely my own work and authentic representation of my practice in learning technology.
