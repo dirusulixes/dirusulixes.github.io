@@ -20,7 +20,7 @@ repository               : "dirusulixes/dirusulixes.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Guido Conaldi"
   pronouns         : # example: "he/him"  
   bio              : "Associate Professor in Organisational Sociology and Greenwich Business School Faculty TEL Lead"
