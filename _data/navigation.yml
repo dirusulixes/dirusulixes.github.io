@@ -29,3 +29,5 @@ main:
     description: "Communication & Collaboration"
   - title: "Future Plans"
     url: /future-plans/
+  - title: "Confirmation"
+    url: /confirmation/
