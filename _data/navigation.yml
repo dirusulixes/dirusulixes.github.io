@@ -18,13 +18,13 @@ main:
   - title: "Core Area 1b" 
     url: /core-area-1b/
     description: "Technical Knowledge & Ability"
-  - title: "Core Area 2"
+  - title: "Core Area 2a"
     url: /core-area-2a/
     description: "Teaching, Learning & Assessment"
-  - title: "Core Area 3"
+  - title: "Core Area 3a"
     url: /core-area-3a/
     description: "Legislation & Policies"
-  - title: "Core Area 4"
+  - title: "Core Area 4a"
     url: /core-area-4a/
     description: "Communication & Collaboration"
   - title: "Future Plans"
