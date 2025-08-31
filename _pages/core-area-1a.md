@@ -51,29 +51,6 @@ The stakeholder management challenge of involving module leaders whilst avoiding
 
 Presenting to the Faculty Student Success Committee, with its diverse membership of school and faculty leads from both academic and professional services, required translating technical details into strategic implications. This experience improved my ability to communicate technology constraints and benefits to diverse audiences—essential for securing buy-in for significant changes.
 
-## Evidence
-
-**Primary Documentation:**
-- [TEL Working Group Terms of Reference](/evidence/tel-working-group-terms/) - Formal governance structure and accountability framework
-- [Faculty Student Success Committee Minutes - 24 January 2025](/evidence/fssc-minutes-24jan/) - Provider assignment and evaluation timeline
-- [Faculty Student Success Committee Minutes - 4 March 2025](/evidence/fssc-minutes-4march/) - Evaluation outcomes and stakeholder management
-
-**Collaborative Process:**
-- Teams channel screenshots demonstrating continuous dialogue and information sharing
-- Provider evaluation matrix showing systematic comparison framework
-- Working group meeting minutes documenting systematic evaluation approach
-
-**Technical Evaluation:**
-- Provider demonstration attendance records
-- Cost analysis comparing current expenditure with alternative options
-- Technical integration assessment focusing on VLE compatibility
-- Partner institution access evaluation ensuring international student inclusion
-
-**Outcomes and Implementation:**
-- Final recommendation documentation leading to Cesim selection
-- Transition planning materials for 2026-27 implementation
-- Risk mitigation strategies particularly addressing Moodle integration concerns
-
 ---
 
 *Navigation: [← Contextual Statement](/contextual-statement/) | [Core Area 1b →](/core-area-1b/)*
