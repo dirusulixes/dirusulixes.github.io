@@ -9,7 +9,7 @@ permalink: /evidence/tel-working-group-terms/
 
 ## Purpose of the Working Group
 
-The purpose of the Technology-Enhanced Learning (TEL) Working Group (WG) is to actively encourage and support the use of technology to enhance learning and teaching practice in curriculum development and delivery. The efforts of the TEL WG will be directed towards the strategic priorities set out in the [UoG Digital Sub-strategy 2022-2030](https://docs.gre.ac.uk/__data/assets/pdf_file/0020/134570/digital-strategy-2022-2030.pdf) as relevant at the faculty level. The TEL WG will focus on the following key areas:
+The purpose of the Technology-Enhanced Learning (TEL) Working Group (WG) is to actively encourage and support the use of technology to enhance learning and teaching practice in curriculum development and delivery. The efforts of the TEL WG will be directed towards the strategic priorities set out in the UoG Digital Sub-strategy 2022-2030 as relevant at the faculty level. The TEL WG will focus on the following key areas:
 
 - Promoting the adoption of innovative TEL practices by academics and staff in collaboration with the Faculty Learning Technologies Manager.
 - Supporting the development and implementation of TEL-enabled learning resources and activities.
