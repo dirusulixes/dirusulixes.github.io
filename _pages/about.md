@@ -30,6 +30,8 @@ This portfolio addresses the five core areas required for Associate CMALT accred
 
 **[Future Plans](/future-plans/)** - Professional development goals and planned learning activities
 
+**[Evidence](/evidence/)** - Comprehensive index of supporting documentation, visual evidence, and professional recognition
+
 ---
 
 Each section includes **Description**, **Reflection**, and supporting **Evidence** as required by the CMALT framework.
