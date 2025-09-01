@@ -22,11 +22,11 @@ This portfolio addresses the five core areas required for Associate CMALT accred
 
 **[Core Area 1b: Technical Knowledge and Ability](/core-area-1b/)** - Evidence of technical competence in learning technology implementation and support
 
-**[Core Area 2a: Teaching, Learning and Assessment Processes](/core-area-2/)** - Understanding pedagogical applications of educational technology
+**[Core Area 2a: Teaching, Learning and Assessment Processes](/core-area-2a/)** - Understanding pedagogical applications of educational technology
 
-**[Core Area 3a: Understanding and Engaging with Legislation](/core-area-3/)** - Knowledge of legal frameworks affecting educational technology practice
+**[Core Area 3a: Understanding and Engaging with Legislation](/core-area-3a/)** - Knowledge of legal frameworks affecting educational technology practice
 
-**[Core Area 4a: Communication and Working with Others](/core-area-4/)** - Evidence of collaborative practice and professional communication
+**[Core Area 4a: Communication and Working with Others](/core-area-4a/)** - Evidence of collaborative practice and professional communication
 
 **[Future Plans](/future-plans/)** - Professional development goals and planned learning activities
 
