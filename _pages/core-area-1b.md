@@ -61,7 +61,7 @@ The student's pride in the collaborative outcome was evident in their LinkedIn p
   <em>LinkedIn post from Ebenezer Ahemor celebrating the collaborative website development process, demonstrating the mentoring impact and professional recognition of the technical collaboration.</em>
 </div>
 
-The student reflected:
+When I asked for feedback, the student noted:
 
 > "I collaborated with Dr Guido Conaldi to refine the site's usability and accessibility, improving navigation flow, readability, and responsiveness to ensure an inclusive user experience. I really enjoyed working with him on this project."
 
