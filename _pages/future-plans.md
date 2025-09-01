@@ -29,4 +29,4 @@ Throughout these plans, accessibility and inclusion remain fundamental principle
 
 ---
 
-*Navigation: [← Core Area 4a](/core-area-4a/) | [Home](/)*
+*Navigation: [← Core Area 4a](/core-area-4a/) | [Confirmation](/)*
