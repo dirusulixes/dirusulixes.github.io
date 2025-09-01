@@ -56,9 +56,10 @@ By June 2025, the [live website](https://networks-and-urban-systems-centre-nusc.
 
 The student's pride in the collaborative outcome was evident in their LinkedIn post celebrating the competition win and collaborative development process.
 
-![Student LinkedIn post acknowledging collaborative development process](../images/evidence/linkedin-student-post.png)
-
-*LinkedIn post from Ebenezer Ahemor celebrating the collaborative website development process, demonstrating the mentoring impact and professional recognition of the technical collaboration.*
+<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+  <img src="../images/evidence/linkedin-student-post.png" alt="Student LinkedIn post acknowledging collaborative development process" style="max-width: 400px; flex-shrink: 0;">
+  <em>LinkedIn post from Ebenezer Ahemor celebrating the collaborative website development process, demonstrating the mentoring impact and professional recognition of the technical collaboration.</em>
+</div>
 
 The student reflected:
 
